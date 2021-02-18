@@ -1,5 +1,5 @@
 /*
-This is smart scale project by Matiss Vaivodins for his bachelors tehsis project part.
+This is smart scale project by Matiss Vaivodins for his bachelor's thesis project part.
 
  */
 
