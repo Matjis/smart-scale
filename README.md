@@ -8,6 +8,4 @@ Hardware consists of ESP8266 MCU, HX712 load cell, HT7333 linear regulator, LG 1
 
 ![PCB](https://user-images.githubusercontent.com/61108829/121492520-9df68180-c9df-11eb-855c-5f659351fa8e.png)
 
-![IMG_20210610_112639](https://user-images.githubusercontent.com/61108829/121492614-af3f8e00-c9df-11eb-8031-758f01a8b8d4.jpg)
-
-
+![IMG_20210610_112639](https://user-images.githubusercontent.com/61108829/121492863-ed3cb200-c9df-11eb-8fe3-c5a8683e46b1.jpg)
