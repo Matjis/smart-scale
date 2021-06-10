@@ -2,6 +2,9 @@
 
 This project consists of main code writen in Arduino IDE and self made pcb designed in easyeda. 
 
-![PCB_v4 1 pcb palabots_2021-06-10 (2)](https://user-images.githubusercontent.com/61108829/121487855-2d4d6600-c9db-11eb-9fc7-7f52167c3c18.png)
+![Schematic 2](https://user-images.githubusercontent.com/61108829/121488225-8e753980-c9db-11eb-9ece-12f9c02fbbe8.png)
 
-![Schematic_Bakalaurs v4 with charging_2021-06-10 (1)](https://user-images.githubusercontent.com/61108829/121487865-30485680-c9db-11eb-8dc2-f98e1e218abc.png)
+![Schematic](https://user-images.githubusercontent.com/61108829/121488169-7f8e8700-c9db-11eb-836a-9f53f9cd8726.png)
+
+
+
