@@ -4,9 +4,10 @@ This project consists of main code writen in Arduino IDE and self made pcb desig
 
 Hardware consists of ESP8266 MCU, HX712 load cell, HT7333 linear regulator, LG 18650 battery, TP4056 charging ic and DW01 protection ic.
 
-![Schematic 2](https://user-images.githubusercontent.com/61108829/121488225-8e753980-c9db-11eb-9ece-12f9c02fbbe8.png)
+![Schematic](https://user-images.githubusercontent.com/61108829/121492456-920abf80-c9df-11eb-971c-f25b233857cb.png)
 
-![Schematic](https://user-images.githubusercontent.com/61108829/121488169-7f8e8700-c9db-11eb-836a-9f53f9cd8726.png)
+![PCB](https://user-images.githubusercontent.com/61108829/121492520-9df68180-c9df-11eb-855c-5f659351fa8e.png)
 
-![IMG_20210610_112639](https://user-images.githubusercontent.com/61108829/121492146-4bb56080-c9df-11eb-9fef-f2781508823b.jpg)
+![IMG_20210610_112639](https://user-images.githubusercontent.com/61108829/121492614-af3f8e00-c9df-11eb-8031-758f01a8b8d4.jpg)
+
 
